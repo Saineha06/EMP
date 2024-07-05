@@ -33,6 +33,19 @@ public class StudentFormTest {
 
         }
         @Test
+    public  void test2 () {
+        Classs parentX = new Classs();
+        char firstNameA = 's';
+        char secondNameB = 'i';
+        char ThirdNameC = 'r';
+        char fourthNameD = 'i';
+
+        Classs parentY = new Classs();
+        char firstNameM = 'S';
+        char firstNameN = 'r';
+        char firstNameO = 'i';
+    }
+    @Test
     public  void test3 () {
         Classs parentX = new Classs();
         char firstNameA = 's';
